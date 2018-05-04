@@ -1,0 +1,13 @@
+{
+  "fontsize": 11,
+  "lineheight": 26,
+  "fontfamilies": "Monaco",
+  "colors": {
+    "log": "#999999",
+    "error": "#DA2121",
+    "warn": "#999900",
+    "info": "#0099FF",
+    "failed": "#DA2121",
+    "success": "#009900"
+  }
+}
